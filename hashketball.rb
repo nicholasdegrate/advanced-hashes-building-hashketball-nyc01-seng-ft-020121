@@ -17,7 +17,7 @@ game_hash = {
       {
         :player_name => "Alan Anderson",
         :number => ""
-        :shoe
+        :shoe 
         :points
         :rebounds
         :assists
