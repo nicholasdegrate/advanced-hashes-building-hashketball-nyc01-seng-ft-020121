@@ -72,6 +72,13 @@ game_hash = {
     ],
 
   },
+  :away => {
+    :team_name => "Brooklyn Nets",
+    :colors => ["Turquoise", "Purple"],
+    :players => [
+      
+    ]
+  }
 }
 // declaring method
 def game_hash
