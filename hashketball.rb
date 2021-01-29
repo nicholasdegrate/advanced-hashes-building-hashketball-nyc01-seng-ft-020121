@@ -26,8 +26,8 @@ game_hash = {
           :slam_dunks => 1
         },
         {
-          :player_name: "Reggie Evans",
-          :number: 30,
+          :player_name => "Reggie Evans",
+          :number => 30,
           :shoe => 14,
           :points => 12,
           :rebounds => 12,
