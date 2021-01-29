@@ -134,7 +134,7 @@ game_hash = {
     ]
   }
 }
-// declaring method
+
 def game_hash
   return {}
 end
